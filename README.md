@@ -3,7 +3,7 @@
 This interactive dashboard presents a data-driven view of **public school performance** across **Connecticut counties**, using ELA (English Language Arts) test scores and demographic insights.
 
 ## 🌐 Live App
-👉 [Click here to view the live dashboard](https://<your-streamlit-link>)  
+👉 👉 [Click here to view the live dashboard](https://ct-school-performance.streamlit.app) 
 *(Replace with your actual Streamlit app URL after deployment)*
 
 ## 📁 Project Structure
